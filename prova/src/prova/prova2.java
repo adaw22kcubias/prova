@@ -12,7 +12,11 @@ public class prova2 {
 
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Bienvenidos");
-
+        int num = 12;
+        
+        System.out.println("Bienvenidos " + num);
+        
+        
+        
     }
 }
